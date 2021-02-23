@@ -4,6 +4,3 @@
 # * $package       package name
 # * $path          package path
 # * $dependencies  package dependencies
-
-alias ...="cd ../.."
-alias ....="cd ../../.."

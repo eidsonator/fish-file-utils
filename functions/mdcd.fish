@@ -1,4 +1,4 @@
 function mdcd
-    mkdir $argv
+    mkdir -p $argv
     cd $argv
 end

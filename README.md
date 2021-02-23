@@ -20,7 +20,20 @@ $ omf install file-utils
 ## Usage
 
 ```fish
-$ file-utils
+Make a new dir and change to it (makes path).
+$ mdcd [dir]
+
+Create boiler plate fish function file.
+$ fish-func [function] "[description]"
+
+Makes a script executable.
+$ mkex [script]
+
+Create boiler plate executable bash script.
+$ bashsh [scriptName]
+
+Print working directory to clipboard.
+$ cpwd 
 ```
 
 
