@@ -16,7 +16,6 @@
 $ omf install file-utils
 ```
 
-
 ## Usage
 
 ```fish
